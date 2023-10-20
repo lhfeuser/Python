@@ -1,0 +1,5 @@
+nm = int(input('Qual é o número que você deseja ver a tabuada? \nNúmero: '))
+
+for tab in range (0, 11, 1):
+    res = tab * nm
+    print('{} x {} = {}'.format(nm, tab, res))
