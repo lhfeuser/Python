@@ -5,7 +5,7 @@ print(f'\nOs cinco primeiros colocados são {times[0:5]} \n')
 
 # os lanterninhas 
 
-print(f'Os lanterninhas do Campeonato Brasilerio são {times[19:15:-1]} \n')
+print(f'Os lanterninhas do Campeonato Brasileiro são {times[19:15:-1]} \n')
 
 # ordem alfabética
 
